@@ -1,4 +1,4 @@
-# eruptmoon
+# Eruptmoon
 <html>
 <head>
       <title> Rex your are the best choice </title>
@@ -54,13 +54,13 @@
 		<div class="content">為了成為一個全端工程師，我想過放棄我的工作，
 		                但因為我是家的主柱，我都跟商量過沒辦法去放棄工作，
 		                所以我只有邊工作邊學習，但我會放棄所有娛樂的，休息時間來完成這project!
-                        <我現在已經在學習彭彭YouTube 的課，為了project 來打基礎。</div> 	
+                                我現在已經在學習彭彭YouTube 的課，為了project 來打基礎。</div> 	
 						
 		<ul><li><div class="title">如果參與這個計畫，會怎麼安排學習時間？</div></li></ul>
 		<div class="content">參加了這計劃我會用上我所以時間努力學習，
-		                因為我的工作上班時間是固定的，
-		                我不用上晚班，所以我有正常作息時間，
-		                我下班有一定時間去學習。</div> 
+		                     因為我的工作上班時間是固定的，
+		                     我不用上晚班，所以我有正常作息時間，
+		                     我下班有一定時間去學習。</div> 
 		
         <ul><li><div class="title">如果參與這個計畫，預期會碰到什麼困難？你打算怎麼解決它？</div></li></ul>
 		<div class="content">我預計會碰上一些程式碼用的問題吧！
