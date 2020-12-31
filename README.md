@@ -1,4 +1,3 @@
-# Eruptmoon
 <html>
 <head>
       <title> Rex your are the best choice </title>
@@ -17,7 +16,10 @@
 	  .box{
 	  width:700px;padding:10px;margin:50px;background-color:#02324F;color:#ffffff;
 	  display:inline-block;vertical-align:top;
+	  position:absolute;right:0px;top:120px;
 	  }
+	  img{     
+  position:absolute;left:0px;top:120px;}
 	  
 	  </style>
 </head>
