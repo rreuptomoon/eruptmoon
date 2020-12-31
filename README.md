@@ -10,7 +10,6 @@
 	  .title{font-weidth:bold;font-size:20px;
 	  
 	  }
-	  .content{width:700px;padding:10px;margin-top:10px;margin-bottom:10px;
 	  letter-spacing:2px;line-height:24px;
 	  }
 	  .box{
@@ -28,7 +27,7 @@
 		
 		<div class="box">
 		
-		<ul><li><div class="title">個人簡介</div></li></ul>
+		 <ul><li><div class="title">個人簡介</div></li></ul>
 		                                <div>Hello,I'am Rex .我的中文名叫田創鋒,大家通常叫我Rex 或者鋒,我是香港人,</div>
                                                 <div>我的工作是一名手術室的護士,我主要的工作是幫助醫生做手術,照顧病人,</div>
 						<div>這是一份有一定義意同價值的工作，我入職時都有一定抱負</div>
