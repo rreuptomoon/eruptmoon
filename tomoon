@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
       <title> Rex your are the best choice </title>
