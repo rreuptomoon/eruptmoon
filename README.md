@@ -17,10 +17,10 @@
 	  .box{
 	  width:700px;padding:10px;margin:50px;background-color:#02324F;color:#ffffff;
 	  display:inline-block;vertical-align:top;
-	  position:absolute;right:0px;top:120px;
+	  position:absolute;right:0px;top:200px;
 	  }
 	  img{     
-  position:absolute;left:0px;top:120px;}
+  position:absolute;left:0px;top:200px;}
 	  
 	  </style>
 </head>
