@@ -7,8 +7,7 @@
 	  background-color:#02324F;color:white;font-weight:bold;font-size:30px;
 	  text-align:center;padding:10px;
 	  }
-	  .title{font-weidth:bold;font-size:20px;width:700px;padding:10px;margin-top:10px;margin-bottom:10px;
-	  
+	  .title{font-weidth:bold;font-size:20px;padding:10px;
 	  }
 	  letter-spacing:2px;line-height:24px;
 	  }
