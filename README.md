@@ -16,7 +16,7 @@
 	  .box{
 	  width:700px;padding:10px;margin:50px;background-color:#02324F;color:#ffffff;
 	  display:inline-block;vertical-align:top;
-	  position:absolute;right:550px;top:290px;}
+	  position:absolute;right:350px;top:290px;}
 	  img{position:absolute;left:0px;top:300px;}
 	  </style>
 	  
