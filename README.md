@@ -30,7 +30,7 @@
 		<div class="box">
 		
 		<ul><li><div class="title">個人簡介</div></li></ul>
-		<div class="content"><br/>Hello,I'am Rex .我的中文名叫田鋒,大家通常叫我Rex 或者鋒,我是香港人,
+		<div class="content"><br/>Hello,I'am Rex .我的中文名叫田創鋒,大家通常叫我Rex 或者鋒,我是香港人,
                                                      <br/>我的工作是一名手術室的醫護人員,我主要的工作是幫助醫生做手術,照顧病人,
 						     <br/>這是一份有一定義意同價值的工作，我入職時都有一定抱負，
 						     <br/>但大組織有一定規則，人性架構比較少，所以自由度比較低！
